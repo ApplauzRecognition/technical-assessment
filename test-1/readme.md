@@ -1,6 +1,6 @@
 # Test 1
 
-Using the design found in the file mockup.jpg, translate this design to code.
+Using the design found in the file mockup.png, translate this design to code.
 
 ## Requirements
 
