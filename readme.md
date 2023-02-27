@@ -8,6 +8,8 @@ For front-end candidates, please only do **test-1 and test-2** .
 For back-end candidates, please only do **test-3**.
 All 3 tests are required for full-stack candidates.
 
+The bonus test is meant as an optional challenge to test your React debugging and knowledge.
+
 ## Instructions
 
 When doing the technical assessment, make sure to fork this project into your own github account. When completed, please give us the public github URL.
